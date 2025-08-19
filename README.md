@@ -25,7 +25,7 @@ Git/GitHub
 
 👋 **Como me encontrar ?**
 
-"[LinkedIn] (www.linkedin.com/in/gabrielnovaes777)"
+"[LinkedIn](www.linkedin.com/in/gabrielnovaes777)"
 
 Email: gabrielnovaespiv@gmail.com
 
