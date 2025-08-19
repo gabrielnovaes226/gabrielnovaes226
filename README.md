@@ -29,5 +29,5 @@ LinkedIn: www.linkedin.com/in/gabrielnovaes777
 
 Email: gabrielnovaespiv@gmail.com
 
-✨ Estou no começo da minha jornada, aprendendo um pouco a cada dia.
-Qualquer dica ou sugestão é super bem-vinda!
+✨ *Estou no começo da minha jornada, aprendendo um pouco a cada dia.
+Qualquer dica ou sugestão é super bem-vind!*
