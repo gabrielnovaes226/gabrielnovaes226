@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Gabriel Novaes
+## 👋 **`Olá, eu sou Gabriel Novaes`**
 
 Tenho 26 anos e atualmente estou cursando Ciência da Computação.
 Estou focado em me desenvolver como desenvolvedor backend, e no momento estou estudando Java.
