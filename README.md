@@ -6,20 +6,27 @@ Estou focado em me desenvolver como desenvolvedor backend, e no momento estou es
 👋 **Sobre mim**:
 
 Meu objetivo é trabalhar como backend developer.
+
 Estou aprendendo Java e explorando Spring.
+
 Conheço o básico de React, Git e outras tecnologias.
+
 Meu inglês é básico, mas estou sempre praticando.
 
 👋 **Tecnologias que já tive contato:**
 
 Java 
+
 Spring 
-React 
+
+eact 
+
 Git/GitHub 
 
 👋 **Como me encontrar ?**
 
 LinkedIn: www.linkedin.com/in/gabrielnovaes777
+
 Email: gabrielnovaespiv@gmail.com
 
 ✨ Estou no começo da minha jornada, aprendendo um pouco a cada dia.
